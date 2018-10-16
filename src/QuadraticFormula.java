@@ -22,6 +22,8 @@ public class QuadraticFormula
 		double solutionOne = ((-1*bDoub+root)/2*aDoub);
 		double solutionTwo = ((-1*bDoub-root)/2*aDoub);
 		System.out.print("\nThe solutions are: " + solutionOne + ", " + solutionTwo);
+		System.out.print("\nThank you for using the Quadratic Formula Calculator!");
+		//Completed Project
 		
 		
 
